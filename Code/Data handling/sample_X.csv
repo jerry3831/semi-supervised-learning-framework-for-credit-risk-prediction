@@ -1,0 +1,355 @@
+,gender,marital_status,region,highest_education,school,graduation,employment_status,last_year_benefitted,loan_purpose,repayment_status,repayment_info_source,repayment_method,repayment_method_convenience,effectiveness_repayment_method,collection_strategy_effectiveness,interaction_quality_on_repayment,overall_experience_with_loan_process,over_under_milion,discipline
+0,male,married,southern,master,poly,2004.0,fulltime,2004,tuition_living_stationery,fully_paid,crbreport,oneoff,neutral,ineffective,effective,neutral,dissatisfied,under,commerce
+1,female,single,central,master,poly,2014.0,fulltime,2014,tuition_living_stationery,fully_paid,employer,monthly_salary,convenient,ineffective,ineffective,neutral,dissatisfied,under,commerce
+2,male,married,central,master,poly,2014.0,fulltime,2013,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,commerce
+3,female,married,southern,master,poly,2012.0,fulltime,2011,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,commerce
+4,male,married,central,bachelor,poly,2016.0,fulltime,2015,tuition_living_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,commerce
+5,male,married,central,bachelor,poly,2016.0,fulltime,2015,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,commerce
+6,male,married,northern,doctorate,poly,2000.0,fulltime,1999,tuition_living_stationery,fully_paid,inperson,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,commerce
+7,male,married,southern,master,poly,2016.0,fulltime,2015,tuition_living_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,commerce
+8,male,single,northern,bachelor,poly,2015.0,fulltime,2014,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,over,commerce
+9,male,widowed,northern,doctorate,poly,2001.0,fulltime,2000,tuition_living,fully_paid,inperson,monthly_salary,neutral,neutral,effective,positive,neutral,under,commerce
+10,male,single,northern,bachelor,poly,2015.0,fulltime,2014,tuition_living,not_paid,email,none,inconvenient,ineffective,neutral,neutral,neutral,over,commerce
+11,female,single,central,bachelor,luanar,2013.0,fulltime,2012,tuition_living,partially_paid,email_inperson,monthly_salary,convenient,effective,neutral,negative,neutral,under,commerce
+12,female,single,central,bachelor,luanar,2013.0,unemployed,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,commerce
+13,male,single,northern,master,luanar,2013.0,self_employed,2012,tuition_living,partially_paid,inperson,voluntary_monthly,inconvenient,ineffective,ineffective,negative,dissatisfied,over,commerce
+14,female,single,central,bachelor,luanar,2016.0,fulltime,2015,tuition_living,partially_paid,email,voluntary_monthly,neutral,neutral,neutral,neutral,neutral,over,commerce
+15,female,married,southern,bachelor,chanco,2016.0,fulltime,2012,stationery,fully_paid,employer,monthly_salary,very_convenient,very_effective,effective,positive,neutral,under,humanities
+16,female,single,northern,bachelor,mzuni,2013.0,self_employed,2013,tuition,not_paid,none,none,very_inconvenient,very ineffective,very ineffective,negative,dissatisfied,under,humanities
+17,male,married,central,bachelor,chanco,2008.0,fulltime,2017,tuition_living,partially_paid,email,monthly_salary,neutral,neutral,neutral,neutral,neutral,under,humanities
+18,male,married,northern,master,chanco,2017.0,fulltime,2016,tuition,fully_paid,inperson,monthly_salary,neutral,effective,effective,neutral,neutral,under,humanities
+19,male,married,northern,doctorate,mzuni,2001.0,fulltime,2000,tuition_living,fully_paid,inperson,monthly_salary,convenient,effective,effective,positive,satisfied,over,humanities
+20,male,single,central,bachelor,chanco,2013.0,fulltime,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,humanities
+21,male,single,central,bachelor,chanco,2013.0,parttime,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,humanities
+22,female,married,northern,master,mzuni,2008.0,fulltime,2007,tuition_living,fully_paid,inperson,monthly_salary,convenient,effective,effective,positive,satisfied,over,humanities
+23,male,married,northern,doctorate,chanco,2000.0,fulltime,1999,tuition_living,fully_paid,inperson,monthly_salary,convenient,effective,effective,positive,very satisfied,under,humanities
+24,male,single,central,bachelor,chanco,2013.0,fulltime,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,effective,neutral,neutral,over,humanities
+25,female,married,central,doctorate,chanco,2003.0,fulltime,2002,tuition_living,fully_paid,inperson,monthly_salary,neutral,neutral,effective,neutral,neutral,over,humanities
+26,male,single,central,bachelor,chanco,2013.0,self_employed,2012,tuition,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,humanities
+27,female,divorced,southern,master,mzuni,2016.0,parttime,2015,tuition_living_stationery,partially_paid,inperson,voluntary_monthly,neutral,neutral,neutral,neutral,neutral,over,humanities
+28,male,single,central,bachelor,chanco,2013.0,self_employed,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,humanities
+29,male,married,central,bachelor,chanco,2016.0,parttime,2015,living,partially_paid,inperson,voluntary_monthly,inconvenient,ineffective,neutral,neutral,neutral,under,humanities
+30,male,married,northern,bachelor,mzuni,2013.0,fulltime,2012,tuition_living_stationery,partially_paid,email,monthly_salary,inconvenient,ineffective,neutral,neutral,neutral,over,humanities
+31,male,divorced,northern,doctorate,chanco,2002.0,fulltime,2001,tuition_living,partially_paid,inperson,voluntary_monthly,inconvenient,ineffective,neutral,neutral,neutral,over,humanities
+32,male,single,southern,bachelor,chanco,2013.0,fulltime,2012,tuition_living,partially_paid,inperson,monthly_salary,inconvenient,ineffective,neutral,neutral,neutral,over,humanities
+33,male,single,central,bachelor,chanco,2016.0,fulltime,2015,tuition_living,not_paid,inperson,none,inconvenient,ineffective,ineffective,neutral,neutral,over,humanities
+34,male,married,central,master,chanco,2014.0,fulltime,2013,tuition,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,under,humanities
+35,female,married,northern,bachelor,chanco,2017.0,fulltime,2016,tuition,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,under,humanities
+36,male,married,northern,bachelor,chanco,2014.0,fulltime,2013,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,humanities
+37,female,married,southern,master,chanco,2013.0,fulltime,2012,tuition_living,partially_paid,inperson,monthly_salary,inconvenient,ineffective,neutral,neutral,neutral,over,humanities
+38,male,single,central,bachelor,chanco,2017.0,fulltime,2017,tuition_living,not_paid,phone,none,inconvenient,ineffective,neutral,neutral,neutral,over,humanities
+39,male,married,central,bachelor,chanco,2017.0,fulltime,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,under,humanities
+40,male,single,southern,bachelor,chanco,2017.0,fulltime,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+41,female,single,northern,bachelor,chanco,2011.0,unemployed,2010,tuition_living,not_paid,inperson,none,inconvenient,ineffective,ineffective,neutral,neutral,over,stem
+42,male,single,central,bachelor,chanco,2016.0,self_employed,2015,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+43,male,single,central,bachelor,chanco,2017.0,parttime,2016,tuition_living_stationery,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+44,female,married,southern,bachelor,chanco,2011.0,fulltime,2010,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+45,male,married,central,bachelor,luanar ,2017.0,fulltime,2016,tuition_living,partially_paid,email_inperson,monthly_salary,neutral,effective,ineffective,negative,dissatisfied,under,stem
+46,male,single,central,bachelor,luanar,2017.0,fulltime,2016,tuition_living,partially_paid,inperson,voluntary_monthly,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+47,male,married,central,master,poly,2012.0,fulltime,2011,tuition_living,partially_paid,inperson,monthly_salary,inconvenient,ineffective,effective,neutral,neutral,over,commerce
+48,female,married,central,doctorate,chanco,2013.0,fulltime,2004,tuition_living_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,humanities
+49,male,married,central,doctorate,chanco,2004.0,fulltime,2003,tuition_living_stationery,partially_paid,inperson,monthly_salary,convenient,effective,neutral,neutral,neutral,under,humanities
+50,female,married,southern,bachelor,mzuni,2005.0,fulltime,2004,tuition_living,fully_paid,inperson,oneoff,convenient,effective,effective,positive,neutral,under,commerce
+51,male,married,southern,bachelor,poly,2016.0,fulltime,2015,tuition_living,not_paid,email,none,neutral,neutral,neutral,neutral,neutral,under,commerce
+52,female,divorced,southern,master,chanco,2002.0,self_employed,2001,tuition_living_stationery,fully_paid,employer,monthly_salary,very_convenient,very_effective,very_effective,positive,very satisfied,under,humanities
+53,male,married,northern,doctorate,chanco,2001.0,fulltime,2000,living_stationery,fully_paid,employer,monthly_salary,neutral,neutral,neutral,neutral,satisfied,under,stem
+54,male,single,central,master,chanco,2017.0,fulltime,2016,living_stationery,fully_paid,employer,monthly_salary,convenient,effective,effective,positive,satisfied,under,stem
+55,male,married,southern,bachelor,mzuni,2014.0,fulltime,2014,tuition_living_stationery,not_paid,employer,none,convenient,effective,effective,neutral,neutral,under,stem
+56,female,married,central,master,poly,2008.0,fulltime,2007,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,dissatisfied,over,commerce
+57,male,married,southern,bachelor,poly,2016.0,parttime,2015,tuition_living,not_paid,email,none,neutral,neutral,neutral,neutral,neutral,under,commerce
+58,female,single,central,bachelor,poly,2015.0,unemployed,2014,tuition_living,not_paid,email,none,neutral,neutral,effective,positive,neutral,over,commerce
+59,female,married,northern,master,poly,2001.0,fulltime,2000,tuition_living,fully_paid,phone,monthly_salary,convenient,effective,effective,positive,satisfied,under,stem
+60,male,single,northern,master,poly,2011.0,fulltime,2010,tuition_living,partially_paid,email,voluntary_monthly,neutral,effective,effective,positive,neutral,under,stem
+61,male,single,central,bachelor,poly,2015.0,unemployed,2014,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,commerce
+62,male,married,northern,bachelor,poly,2012.0,fulltime,2011,living,fully_paid,phone,monthly_salary,convenient,very_effective,effective,very_positive,very satisfied,under,commerce
+63,male,single,central,bachelor,poly,2014.0,fulltime,2013,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,satisfied,over,commerce
+64,male,married,southern,doctorate,mzuni,2005.0,fulltime,2003,tuition_living,fully_paid,inperson,monthly_salary,convenient,neutral,neutral,neutral,neutral,under,stem
+65,female,married,northern,master,mzuni,2013.0,fulltime,2003,tuition_living_stationery,fully_paid,phone,monthly_salary,convenient,effective,effective,positive,very satisfied,under,stem
+66,male,married,central,doctorate,mzuni,2012.0,fulltime,2012,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+67,male,married,southern,doctorate,mzuni,2000.0,fulltime,1999,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+68,male,married,central,master,poly,2000.0,self_employed,1999,tuition_living_stationery,fully_paid,employer,voluntary_monthly,neutral,effective,effective,positive,very satisfied,under,commerce
+69,male,single,central,bachelor,chanco,2011.0,fulltime,2010,tuition_living,partially_paid,email_inperson,monthly_salary,neutral,effective,neutral,negative,dissatisfied,over,commerce
+70,male,single,southern,bachelor,mzuni,2013.0,fulltime,2012,tuition_living,fully_paid,email_inperson,monthly_salary,convenient,effective,effective,positive,satisfied,under,stem
+71,male,married,central,bachelor,mzuni,2007.0,fulltime,2006,tuition_living,fully_paid,employer,monthly_salary,convenient,effective,effective,positive,satisfied,under,stem
+72,female,married,central,bachelor,mzuni,2015.0,fulltime,2004,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+73,male,single,southern,bachelor,mzuni,2016.0,fulltime,2015,tuition_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+74,male,married,central,master,mzuni,2013.0,fulltime,2010,tuition_living_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,over,stem
+75,male,single,central,bachelor,mzuni,2016.0,fulltime,2015,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+76,male,married,central,bachelor,mzuni,2016.0,fulltime,2015,tuition_living_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+77,male,married,northern,bachelor,chanco,2002.0,fulltime,2001,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+78,male,single,central,master,mzuni,2011.0,fulltime,2010,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+79,female,single,southern,bachelor,chanco,2015.0,fulltime,2014,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,over,stem
+80,female,divorced,northern,doctorate,luanar,2004.0,self_employed,2003,tuition_living,fully_paid,inperson,voluntary_monthly,convenient,ineffective,ineffective,negative,dissatisfied,over,stem
+81,female,married,southern,master,poly,2007.0,fulltime,2006,tuition_living,fully_paid,phone,voluntary_monthly,convenient,effective,effective,positive,satisfied,under,stem
+82,male,single,northern,bachelor,poly,2017.0,fulltime,2016,living_stationery,fully_paid,email,monthly_salary,convenient,neutral,neutral,positive,neutral,under,stem
+83,female,married,northern,bachelor,mzuni,2010.0,fulltime,2009,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+84,male,single,central,bachelor,luanar,2013.0,fulltime,2012,tuition_living,partially_paid,inperson,monthly_salary,inconvenient,ineffective,neutral,neutral,neutral,over,natural resourses
+85,male,married,central,bachelor,luanar,2010.0,fulltime,2009,tuition_living,partially_paid,inperson,monthly_salary,convenient,effective,effective,positive,satisfied,under,stem
+86,male,single,central,bachelor,luanar,2011.0,self_employed,2010,tuition_living,not_paid,employer,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+87,female,married,central,bachelor,luanar,2011.0,fulltime,2010,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+88,male,divorced,central,master,luanar,2015.0,fulltime,2014,living,fully_paid,inperson,monthly_salary,convenient,effective,effective,positive,neutral,under,stem
+89,male,married,northern,bachelor,chanco,2002.0,fulltime,2001,tuition_living,fully_paid,inperson,monthly_salary,convenient,effective,effective,positive,satisfied,under,stem
+90,male,married,southern,bachelor,chanco,2017.0,fulltime,2016,tuition_living,fully_paid,phone,voluntary_monthly,very_convenient,very_effective,effective,very_positive,very satisfied,under,stem
+91,female,married,northern,bachelor,poly,2016.0,fulltime,2015,tuition_living_stationery,partially_paid,email,monthly_salary,neutral,neutral,effective,neutral,neutral,over,stem
+92,female,married,southern,bachelor,chanco,2009.0,fulltime,2008,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+93,male,married,central,doctorate,chanco,2004.0,fulltime,2003,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+94,male,married,northern,bachelor,chanco,2016.0,fulltime,2015,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+95,female,single,northern,bachelor,chanco,2016.0,fulltime,2015,tuition_living_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,over,stem
+96,female,married,southern,bachelor,chanco,2013.0,fulltime,2012,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+97,female,married,central,bachelor,chanco,2014.0,fulltime,2021,living,fully_paid,email_inperson,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+98,female,married,central,bachelor,chanco,2016.0,fulltime,2015,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+99,female,single,southern,bachelor,chanco,2016.0,fulltime,2015,tuition_living,fully_paid,email_inperson,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,over,stem
+100,female,married,southern,bachelor,chanco,2013.0,fulltime,2012,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+101,female,single,southern,bachelor,chanco,2016.0,fulltime,2015,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+102,female,single,southern,bachelor,chanco,2015.0,fulltime,2014,tuition,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+103,female,single,southern,bachelor,luanar ,2013.0,fulltime,2012,tuition_living,partially_paid,phone,voluntary_monthly,neutral,neutral,effective,positive,satisfied,over,stem
+104,male,married,southern,bachelor,mzuni,2016.0,fulltime,2015,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,natural resourses
+105,male,single,central,bachelor,mzuni,2008.0,fulltime,2007,tuition_living,partially_paid,inperson,monthly_salary,neutral,neutral,effective,positive,neutral,under,natural resourses
+106,male,married,southern,doctorate,mzuni,2003.0,fulltime,2002,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,natural resourses
+107,female,married,southern,bachelor,mzuni,2000.0,fulltime,1999,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,natural resourses
+108,male,married,southern,bachelor,mzuni,2011.0,fulltime,2018,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,natural resourses
+109,male,single,central,bachelor,mzuni,2016.0,fulltime,2015,tuition_living,fully_paid,inperson,monthly_salary,neutral,ineffective,neutral,neutral,neutral,under,commerce
+110,male,married,central,doctorate,poly,2000.0,fulltime,1999,tuition_living_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,commerce
+111,male,married,northern,bachelor,luanar,2007.0,parttime,2006,tuition_living,partially_paid,inperson,voluntary_monthly,inconvenient,ineffective,ineffective,negative,dissatisfied,under,health sciences
+112,female,married,northern,bachelor,mzuni,2012.0,fulltime,2011,tuition_living,partially_paid,email_inperson,monthly_salary,convenient,neutral,effective,positive,neutral,under,stem
+113,male,married,northern,bachelor,poly,2013.0,fulltime,2012,tuition_living,partially_paid,email,monthly_salary,convenient,effective,neutral,neutral,satisfied,under,stem
+114,female,single,central,bachelor,poly,2014.0,fulltime,2013,tuition_living,partially_paid,phone,monthly_salary,convenient,very_effective,effective,very_positive,very satisfied,under,stem
+115,female,married,northern,bachelor,mzuni,2015.0,fulltime,2014,tuition_living,fully_paid,phone,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+116,female,married,northern,bachelor,mzuni,2010.0,fulltime,2010,living,partially_paid,phone,monthly_salary,convenient,ineffective,neutral,negative,dissatisfied,under,stem
+117,male,married,northern,master,mzuni,2009.0,fulltime,2008,tuition_living,fully_paid,inperson,monthly_salary,convenient,effective,effective,positive,satisfied,under,stem
+118,female,married,central,master,mzuni,2013.0,fulltime,2012,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+119,male,married,southern,master,mzuni,2012.0,fulltime,2011,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+120,male,married,northern,bachelor,mzuni,2013.0,fulltime,2012,tuition,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+121,male,married,northern,doctorate,mzuni,2002.0,fulltime,2001,tuition_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+122,female,married,northern,bachelor,mzuni,2016.0,fulltime,2015,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+123,female,married,southern,bachelor,mzuni,2017.0,fulltime,2016,tuition,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,neutral,under,stem
+124,male,married,northern,bachelor,mzuni,2015.0,fulltime,2014,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+125,male,single,central,master,mzuni,2016.0,fulltime,2015,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+126,male,single,southern,bachelor,mzuni,2014.0,fulltime,2013,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+127,female,married,southern,doctorate,mzuni,2000.0,fulltime,1999,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,over,stem
+128,male,married,central,bachelor,poly,2007.0,fulltime,2006,tuition_living,fully_paid,employer,monthly_salary,convenient,effective,effective,neutral,satisfied,under,natural resourses
+129,male,single,central,master,luanar,2013.0,fulltime,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,natural resourses
+130,male,married,southern,bachelor,chanco,2012.0,fulltime,2011,tuition_living,partially_paid,phone,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+131,male,single,central,master,luanar,2008.0,self_employed,2007,tuition_living,fully_paid,email_inperson,voluntary_monthly,very_convenient,effective,very_effective,very_positive,very satisfied,under,stem
+132,male,married,central,bachelor,luanar,2013.0,fulltime,2012,tuition_living,not_paid,phone,none,inconvenient,ineffective,neutral,neutral,neutral,over,natural resourses
+133,female,married,northern,bachelor,mzuni,2012.0,fulltime,2011,tuition_living,fully_paid,inperson,voluntary_monthly,convenient,effective,effective,positive,satisfied,under,health sciences
+134,male,divorced,central,doctorate,mzuni,2006.0,fulltime,2005,tuition_living,fully_paid,inperson,monthly_salary,inconvenient,ineffective,ineffective,negative,very dissatisfied,over,health sciences
+135,female,single,northern,bachelor,mzuni,2016.0,unemployed,2015,tuition_living,not_paid,phone,none,neutral,neutral,neutral,neutral,neutral,over,stem
+136,male,married,central,bachelor,chanco,2015.0,fulltime,2014,tuition_living,fully_paid,inperson,monthly_salary,neutral,effective,effective,neutral,neutral,over,stem
+137,female,single,southern,bachelor,luanar,2016.0,self_employed,2015,tuition,partially_paid,email_inperson,voluntary_monthly,convenient,effective,effective,positive,satisfied,over,design
+138,male,married,central,bachelor,luanar,2016.0,fulltime,2015,tuition_living,partially_paid,inperson,monthly_salary,convenient,effective,effective,positive,satisfied,over,natural resourses
+139,male,married,northern,bachelor,mzuni,2014.0,fulltime,2013,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+140,female,married,southern,bachelor,mancosa,2013.0,fulltime,2012,tuition_living,not_paid,none,none,convenient,neutral,ineffective,neutral,neutral,over,commerce
+141,male,married,central,master,chanco,2006.0,fulltime,2005,tuition_stationery,fully_paid,letter,oneoff,neutral,neutral,effective,positive,satisfied,under,stem
+142,female,married,southern,bachelor,mzuni,2009.0,fulltime,2013,tuition_stationery,fully_paid,email,oneoff,convenient,effective,neutral,very_positive,satisfied,under,stem
+143,female,single,southern,master,mzuni,2014.0,fulltime,2013,tuition,fully_paid,none,oneoff,convenient,effective,effective,positive,very dissatisfied,under,stem
+144,male,married,central,bachelor,poly,2012.0,fulltime,2012,tuition,not_paid,phone,monthly_salary,very_convenient,effective,effective,very_positive,satisfied,under,stem
+145,male,single,southern,bachelor,chanco,2013.0,fulltime,2012,tuition_living,partially_paid,email,monthly_salary,convenient,effective,effective,neutral,neutral,under,stem
+146,female,divorced,central,master,chanco,2004.0,fulltime,2003,tuition_living,partially_paid,inperson,voluntary_monthly,neutral,effective,effective,positive,neutral,over,stem
+147,male,married,central,master,mzuni,2010.0,fulltime,2009,tuition_living,fully_paid,inperson,voluntary_monthly,neutral,neutral,neutral,positive,neutral,under,stem
+148,male,widowed,northern,doctorate,chanco,2001.0,fulltime,2000,tuition_living,fully_paid,inperson,voluntary_monthly,neutral,effective,neutral,positive,neutral,over,stem
+149,male,single,southern,bachelor,mzuni,2013.0,fulltime,2012,tuition,partially_paid,employer,voluntary_monthly,neutral,neutral,neutral,neutral,neutral,over,stem
+150,male,married,northern,bachelor,mzuni,2013.0,fulltime,2014,tuition_living,fully_paid,inperson,voluntary_monthly,neutral,neutral,effective,neutral,satisfied,under,stem
+151,female,married,central,bachelor,chanco,2017.0,fulltime,2016,living,not_paid,email,none,neutral,neutral,neutral,neutral,neutral,under,stem
+152,male,married,northern,doctorate,chanco,2000.0,fulltime,1999,tuition_living,fully_paid,inperson,monthly_salary,neutral,neutral,neutral,positive,satisfied,under,stem
+153,female,married,central,bachelor,mzuni,2017.0,fulltime,2016,tuition_living,partially_paid,inperson,voluntary_monthly,neutral,neutral,effective,neutral,satisfied,under,stem
+154,female,married,central,bachelor,mzuni,2009.0,fulltime,2008,tuition_living,partially_paid,inperson,voluntary_monthly,neutral,neutral,effective,positive,neutral,under,stem
+155,female,married,northern,bachelor,chanco,2015.0,fulltime,2014,tuition_living,partially_paid,email_inperson,monthly_salary,convenient,effective,effective,positive,satisfied,under,stem
+156,male,married,southern,doctorate,poly,2009.0,fulltime,2008,tuition_living,fully_paid,inperson,monthly_salary,very_convenient,very_effective,effective,very_positive,very satisfied,under,stem
+157,male,single,northern,bachelor,chanco,2016.0,fulltime,2020,living,not_paid,email,monthly_salary,convenient,effective,neutral,positive,satisfied,under,stem
+158,female,divorced,northern,master,chanco,1990.0,parttime,1990,living,fully_paid,inperson,voluntary_monthly,convenient,effective,effective,positive,satisfied,under,stem
+159,female,widowed,northern,doctorate,com,1999.0,self_employed,1998,living,fully_paid,inperson,voluntary_monthly,convenient,effective,neutral,positive,satisfied,over,stem
+160,male,married,northern,doctorate,chanco,1997.0,parttime,1996,living,fully_paid,inperson,voluntary_monthly,neutral,effective,effective,positive,satisfied,under,stem
+161,male,divorced,northern,doctorate,chanco,2009.0,fulltime,2008,living,fully_paid,phone,monthly_salary,neutral,effective,effective,positive,satisfied,under,stem
+162,female,widowed,northern,doctorate,chanco,1992.0,parttime,1991,living,fully_paid,inperson,oneoff,convenient,effective,effective,positive,satisfied,under,stem
+163,female,widowed,northern,doctorate,chanco,2003.0,fulltime,2002,living,fully_paid,phone,monthly_salary,convenient,effective,effective,positive,satisfied,over,stem
+164,female,married,northern,doctorate,chanco,2016.0,parttime,2015,living_stationery,fully_paid,email,monthly_salary,neutral,effective,effective,positive,satisfied,over,stem
+165,male,single,southern,bachelor,mzuni,2014.0,fulltime,2013,tuition_living,not_paid,email_inperson,none,convenient,effective,effective,positive,satisfied,over,stem
+166,male,widowed,central,doctorate,chanco,2005.0,fulltime,2003,tuition_living,fully_paid,inperson,monthly_salary,convenient,effective,effective,positive,satisfied,under,stem
+167,male,single,northern,bachelor,chanco,2013.0,fulltime,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,dissatisfied,over,stem
+168,male,single,southern,bachelor,mzuni,2013.0,parttime,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+169,female,widowed,northern,doctorate,chanco,2002.0,fulltime,2001,tuition_living,fully_paid,inperson,monthly_salary,convenient,neutral,neutral,neutral,satisfied,under,stem
+170,male,married,southern,master,chanco,2010.0,fulltime,2009,tuition_living,fully_paid,inperson,voluntary_monthly,convenient,effective,effective,positive,satisfied,under,stem
+171,female,married,central,master,mzuni,2008.0,fulltime,2007,tuition_living,fully_paid,inperson,monthly_salary,convenient,effective,neutral,positive,neutral,over,stem
+172,female,married,northern,bachelor,mzuni,2013.0,fulltime,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,effective,neutral,dissatisfied,over,stem
+173,female,widowed,northern,master,chanco,2003.0,fulltime,2002,tuition_living_stationery,fully_paid,inperson,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,over,stem
+174,female,single,southern,bachelor,mzuni,2015.0,fulltime,2014,living,partially_paid,email,monthly_salary,neutral,neutral,effective,positive,neutral,under,stem
+175,female,married,central,bachelor,chanco,2013.0,fulltime,2012,tuition_living,fully_paid,email,monthly_salary,convenient,effective,effective,neutral,neutral,over,stem
+176,male,married,northern,doctorate,mzuni,2003.0,fulltime,2002,tuition_living,fully_paid,inperson,monthly_salary,neutral,effective,neutral,positive,neutral,under,stem
+177,female,married,central,bachelor,mzuni,2009.0,self_employed,2008,tuition_living,fully_paid,inperson,voluntary_monthly,neutral,effective,effective,positive,satisfied,under,stem
+178,female,divorced,central,bachelor,mzuni,2001.0,parttime,2000,tuition_living_stationery,not_paid,socialmedia,none,neutral,ineffective,ineffective,neutral,neutral,under,stem
+179,male,married,central,bachelor,mzuni,2017.0,fulltime,2016,tuition_living,partially_paid,inperson,monthly_salary,neutral,neutral,neutral,neutral,neutral,under,stem
+180,female,single,central,bachelor,chanco,2013.0,self_employed,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+181,male,widowed,southern,doctorate,chanco,2008.0,fulltime,2007,tuition_living,partially_paid,inperson,voluntary_monthly,neutral,neutral,neutral,neutral,neutral,over,stem
+182,male,married,central,bachelor,chanco,2008.0,self_employed,2007,tuition,not_paid,inperson,none,neutral,neutral,neutral,neutral,neutral,under,stem
+183,male,married,northern,master,chanco,2016.0,fulltime,2015,tuition_living,not_paid,inperson,none,neutral,effective,neutral,neutral,neutral,over,stem
+184,female,single,southern,bachelor,mzuni,2015.0,unemployed,2014,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+185,female,single,southern,bachelor,mzuni,2015.0,unemployed,2014,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+186,male,single,northern,bachelor,chanco,2014.0,parttime,2013,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+187,female,single,southern,bachelor,mzuni,2013.0,fulltime,2012,tuition_living,partially_paid,inperson,monthly_salary,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+188,male,married,southern,bachelor,chanco,2007.0,fulltime,2006,tuition_living,partially_paid,inperson,voluntary_monthly,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+189,female,married,southern,bachelor,mzuni,2016.0,fulltime,2015,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+190,male,widowed,northern,doctorate,chanco,2001.0,fulltime,2000,tuition_living,partially_paid,employer,monthly_salary,inconvenient,ineffective,ineffective,neutral,neutral,under,stem
+191,male,married,central,master,chanco,2015.0,fulltime,2014,tuition,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,dissatisfied,under,stem
+192,female,married,southern,bachelor,poly,2011.0,fulltime,2010,tuition_living,partially_paid,email,monthly_salary,convenient,effective,effective,positive,satisfied,under,stem
+193,female,single,northern,bachelor,mzuni,2014.0,unemployed,2013,tuition_living,not_paid,email,none,inconvenient,ineffective,neutral,neutral,neutral,under,stem
+194,female,single,southern,bachelor,mzuni,2016.0,unemployed,2015,tuition_living,not_paid,employer,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+195,female,single,southern,bachelor,chanco,2011.0,fulltime,2018,tuition_living,partially_paid,email_inperson,monthly_salary,neutral,neutral,neutral,neutral,neutral,over,stem
+196,female,married,northern,bachelor,mzuni,2011.0,fulltime,2010,tuition_living_stationery,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+197,female,single,central,master,chanco,2016.0,fulltime,2015,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+198,male,married,central,master,mzuni,2016.0,fulltime,2015,tuition_living_stationery,not_paid,phone,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+199,male,single,southern,bachelor,chanco,2011.0,fulltime,2010,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+200,male,single,central,bachelor,mzuni,2017.0,fulltime,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,natural resourses
+201,male,single,central,bachelor,mzuni,2011.0,fulltime,2010,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,natural resourses
+202,male,married,southern,bachelor,mzuni,2016.0,parttime,2015,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+203,female,married,southern,bachelor,chanco,2017.0,parttime,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+204,male,single,southern,bachelor,chanco,2016.0,fulltime,2015,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+205,male,married,northern,bachelor,mzuni,2017.0,fulltime,2016,tuition,partially_paid,inperson,voluntary_monthly,inconvenient,ineffective,neutral,neutral,neutral,under,stem
+206,male,single,central,bachelor,mzuni,2011.0,fulltime,2010,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,satisfied,over,stem
+207,female,married,southern,bachelor,chanco,2017.0,self_employed,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+208,male,single,central,bachelor,mzuni,2017.0,parttime,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+209,male,married,southern,bachelor,chanco,2017.0,self_employed,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+210,female,single,central,bachelor,chanco,2017.0,self_employed,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+211,female,married,southern,bachelor,chanco,2017.0,fulltime,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,dissatisfied,over,stem
+212,male,single,southern,bachelor,chanco,2017.0,fulltime,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+213,male,single,central,master,mzuni,2017.0,fulltime,2015,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+214,male,married,central,bachelor,mzuni,2017.0,fulltime,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+215,female,married,central,bachelor,mzuni,2016.0,self_employed,2015,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+216,female,widowed,central,master,mzuni,2016.0,fulltime,2015,tuition_living_stationery,fully_paid,none,monthly_salary,very_convenient,effective,very_effective,neutral,satisfied,over,commerce
+217,female,single,southern,bachelor,poly,2010.0,self_employed,2009,stationery,fully_paid,phone,oneoff,convenient,effective,effective,neutral,satisfied,under,natural resourses
+218,male,married,southern,bachelor,poly,2004.0,fulltime,2003,tuition,fully_paid,employer,oneoff,neutral,effective,effective,neutral,neutral,under,stem
+219,male,single,central,bachelor,mzuni,2015.0,fulltime,2014,tuition_living,not_paid,email_inperson,none,inconvenient,ineffective,ineffective,neutral,neutral,over,stem
+221,male,single,northern,bachelor,com,2013.0,fulltime,2012,tuition_living,partially_paid,phone,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+222,male,married,southern,bachelor,poly,2012.0,self_employed,2012,tuition,fully_paid,phone,oneoff,convenient,effective,effective,positive,satisfied,under,health sciences
+223,male,single,northern,bachelor,com,2016.0,fulltime,2015,tuition_living,partially_paid,phone,monthly_salary,neutral,neutral,effective,negative,dissatisfied,over,health sciences
+224,male,married,northern,bachelor,com,2017.0,fulltime,2016,tuition_living,partially_paid,phone,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+225,male,single,northern,bachelor,must,2013.0,fulltime,2012,tuition_living,partially_paid,email,voluntary_monthly,neutral,neutral,neutral,positive,neutral,over,health sciences
+226,female,married,central,bachelor,com,2009.0,fulltime,2008,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,health sciences
+227,female,married,central,master,com,2003.0,fulltime,2002,tuition_living,fully_paid,phone,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+228,female,married,southern,bachelor,com,2010.0,fulltime,2009,tuition_living,fully_paid,employer,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+229,male,single,central,bachelor,com,2016.0,fulltime,2015,tuition_living,partially_paid,phone,monthly_salary,convenient,effective,effective,positive,satisfied,over,health sciences
+230,male,married,central,master,com,2004.0,fulltime,2003,tuition_living,fully_paid,employer,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+231,male,single,central,master,must,2017.0,fulltime,2016,living,fully_paid,email,oneoff,very_convenient,very_effective,effective,positive,satisfied,under,health sciences
+232,male,married,central,master,must,2017.0,fulltime,2015,living,fully_paid,email,oneoff,neutral,effective,neutral,positive,neutral,under,health sciences
+233,female,widowed,central,master,must,2017.0,fulltime,2015,living,fully_paid,email,voluntary_monthly,convenient,effective,effective,positive,neutral,under,health sciences
+234,female,married,northern,master,must,2015.0,fulltime,2014,living,fully_paid,email,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+235,male,single,northern,bachelor,must,2016.0,parttime,2015,living,partially_paid,email,voluntary_monthly,convenient,effective,effective,positive,satisfied,over,health sciences
+236,female,single,northern,bachelor,must,2014.0,fulltime,2013,living,partially_paid,email,monthly_salary,convenient,effective,effective,neutral,satisfied,under,health sciences
+237,male,single,northern,bachelor,must,2016.0,fulltime,2015,living,partially_paid,email,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+238,male,married,southern,master,must,2017.0,fulltime,2016,tuition_living,partially_paid,email_inperson,monthly_salary,convenient,effective,effective,very_positive,very satisfied,over,health sciences
+239,female,married,central,bachelor,must,2014.0,fulltime,2013,tuition_living,partially_paid,email,monthly_salary,convenient,effective,very_effective,very_positive,very satisfied,over,health sciences
+240,female,married,northern,diploma,luanar,2013.0,fulltime,2012,stationery,fully_paid,email,voluntary_monthly,neutral,ineffective,ineffective,negative,dissatisfied,under,natural resourses
+241,female,married,central,master,kcn,1996.0,unemployed,1994,tuition,fully_paid,none,voluntary_monthly,neutral,ineffective,neutral,neutral,neutral,under,health sciences
+242,male,married,central,master,poly,2005.0,fulltime,2004,tuition_living,fully_paid,phone,voluntary_monthly,convenient,effective,effective,positive,satisfied,under,stem
+243,male,single,central,bachelor,poly,2010.0,self_employed,2009,living,partially_paid,employer,monthly_salary,neutral,ineffective,neutral,negative,neutral,under,stem
+244,male,married,southern,bachelor,mzuni,2013.0,fulltime,2012,tuition,not_paid,inperson,none,inconvenient,ineffective,ineffective,negative,dissatisfied,under,stem
+245,male,married,southern,master,mzuni,2013.0,fulltime,2012,tuition_stationery,partially_paid,inperson,monthly_salary,very_convenient,effective,effective,neutral,satisfied,under,stem
+246,male,married,southern,bachelor,mzuni,2014.0,fulltime,2013,tuition_living_stationery,partially_paid,email,voluntary_monthly,neutral,ineffective,ineffective,neutral,neutral,under,stem
+247,male,single,southern,master,mzuni,2014.0,fulltime,2012,tuition_stationery,not_paid,posters,none,neutral,neutral,neutral,neutral,neutral,under,stem
+248,male,single,central,master,mzuni,2014.0,fulltime,2013,tuition_living_stationery,not_paid,none,none,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+249,female,single,central,bachelor,mzuni,2014.0,fulltime,2013,tuition_living,not_paid,socialmedia,none,inconvenient,ineffective,neutral,neutral,satisfied,under,stem
+250,male,married,southern,master,mzuni,2013.0,fulltime,2013,tuition_living_stationery,not_paid,none,none,convenient,effective,very_effective,neutral,neutral,under,stem
+251,male,divorced,central,master,mzuni,2014.0,fulltime,2013,tuition_living_stationery,not_paid,none,none,inconvenient,ineffective,very ineffective,neutral,dissatisfied,under,stem
+252,female,married,southern,bachelor,mzuni,2014.0,fulltime,2013,tuition_living_stationery,not_paid,none,none,inconvenient,ineffective,neutral,neutral,neutral,under,stem
+253,male,married,central,bachelor,mzuni,2014.0,fulltime,2013,tuition,fully_paid,phone,oneoff,very_inconvenient,very ineffective,effective,positive,neutral,over,stem
+254,male,married,central,bachelor,mzuni,2015.0,fulltime,2014,tuition_living_stationery,partially_paid,phone,monthly_salary,convenient,neutral,neutral,positive,neutral,under,stem
+255,female,married,southern,bachelor,poly,2013.0,fulltime,2012,tuition_living,partially_paid,phone,monthly_salary,convenient,effective,effective,positive,satisfied,over,stem
+256,female,single,southern,bachelor,poly,2013.0,self_employed,2012,tuition,fully_paid,email,oneoff,convenient,neutral,neutral,neutral,neutral,under,stem
+257,female,married,northern,master,poly,2014.0,fulltime,2013,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+258,male,married,southern,master,poly,2013.0,fulltime,2012,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+259,male,single,northern,bachelor,poly,2013.0,fulltime,2012,tuition_living,partially_paid,email,monthly_salary,neutral,neutral,effective,positive,satisfied,under,stem
+260,female,married,southern,bachelor,poly,2017.0,fulltime,2016,tuition_living_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+261,female,married,southern,bachelor,poly,2015.0,fulltime,2009,living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,stem
+262,male,single,northern,bachelor,poly,2010.0,fulltime,2009,tuition,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,under,stem
+263,male,single,central,bachelor,poly,2015.0,fulltime,2014,tuition_living,partially_paid,inperson,monthly_salary,inconvenient,ineffective,neutral,neutral,neutral,over,stem
+264,male,married,southern,master,mzuni,2015.0,fulltime,2014,tuition_living,fully_paid,employer,monthly_salary,very_convenient,very_effective,effective,positive,satisfied,under,stem
+265,female,single,central,bachelor,mzuni,2015.0,fulltime,2015,tuition,partially_paid,employer,monthly_salary,inconvenient,ineffective,ineffective,neutral,satisfied,under,stem
+266,male,single,southern,bachelor,poly,2017.0,fulltime,2016,tuition,not_paid,email,none,neutral,neutral,neutral,neutral,neutral,under,health sciences
+267,female,single,northern,bachelor,com,2013.0,fulltime,2012,tuition_living,partially_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,over,health sciences
+268,female,married,southern,bachelor,com,2017.0,fulltime,2016,tuition_living,partially_paid,email_inperson,monthly_salary,convenient,very_effective,effective,positive,satisfied,over,health sciences
+269,male,married,central,bachelor,com,2011.0,fulltime,2010,tuition_living,fully_paid,email_inperson,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+270,male,single,northern,bachelor,com,2013.0,fulltime,2012,tuition_living,partially_paid,email_inperson,monthly_salary,convenient,effective,effective,positive,satisfied,over,health sciences
+271,male,single,northern,bachelor,com,2017.0,fulltime,2016,tuition_living,partially_paid,email,monthly_salary,neutral,neutral,effective,neutral,neutral,over,health sciences
+272,male,married,northern,doctorate,com,1999.0,fulltime,1998,tuition_living,fully_paid,inperson,monthly_salary,convenient,effective,neutral,neutral,satisfied,under,health sciences
+273,female,married,southern,bachelor,com,2007.0,fulltime,2006,tuition_living,partially_paid,inperson,monthly_salary,neutral,effective,neutral,neutral,neutral,under,health sciences
+274,male,widowed,central,master,com,2014.0,fulltime,2013,tuition_living,partially_paid,inperson,voluntary_monthly,neutral,effective,neutral,neutral,neutral,over,health sciences
+275,male,divorced,southern,bachelor,mzuni,2004.0,fulltime,2003,tuition_living,fully_paid,inperson,monthly_salary,neutral,effective,neutral,neutral,neutral,under,health sciences
+276,male,married,northern,master,mzuni,2015.0,fulltime,2014,tuition_living,fully_paid,inperson,voluntary_monthly,convenient,neutral,neutral,neutral,neutral,under,health sciences
+277,male,married,central,master,com,2009.0,fulltime,2008,tuition_living,fully_paid,inperson,monthly_salary,convenient,effective,effective,positive,neutral,under,health sciences
+278,male,single,central,bachelor,com,2013.0,fulltime,2013,tuition_living,partially_paid,email,monthly_salary,neutral,neutral,neutral,neutral,neutral,over,health sciences
+279,female,married,central,bachelor,com,2010.0,fulltime,2009,tuition_living,fully_paid,inperson,monthly_salary,neutral,neutral,effective,positive,satisfied,under,health sciences
+280,male,married,southern,bachelor,com,2016.0,fulltime,2015,tuition_living,partially_paid,inperson,monthly_salary,neutral,effective,neutral,positive,satisfied,over,health sciences
+281,male,single,central,bachelor,com,2013.0,parttime,2012,tuition,not_paid,employer,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+282,female,married,northern,doctorate,mzuni,2001.0,fulltime,2000,tuition,fully_paid,inperson,voluntary_monthly,neutral,effective,effective,positive,neutral,under,health sciences
+283,male,single,central,bachelor,mzuni,2013.0,self_employed,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+284,female,married,central,master,com,2016.0,fulltime,2015,tuition_living,partially_paid,email_inperson,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,over,health sciences
+285,male,married,central,master,com,2002.0,parttime,2001,living,fully_paid,phone,monthly_salary,convenient,effective,effective,positive,neutral,under,health sciences
+286,male,married,northern,bachelor,com,2016.0,fulltime,2015,living,not_paid,email,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+287,male,married,northern,master,com,2014.0,fulltime,2013,living,partially_paid,email,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+288,male,married,northern,doctorate,com,2013.0,fulltime,2012,living,fully_paid,phone,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+289,female,married,northern,bachelor,com,2016.0,fulltime,2015,living,fully_paid,email,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+290,female,divorced,northern,doctorate,com,1993.0,parttime,1992,living,fully_paid,inperson,oneoff,convenient,effective,effective,positive,satisfied,under,health sciences
+291,male,married,northern,master,com,2012.0,fulltime,2011,living,fully_paid,email,monthly_salary,convenient,effective,effective,neutral,satisfied,under,health sciences
+292,female,married,northern,bachelor,com,2016.0,fulltime,2015,tuition_living_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,health sciences
+293,male,single,central,bachelor,mzuni,2013.0,self_employed,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+294,female,married,northern,master,com,2016.0,fulltime,2016,tuition,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,health sciences
+295,female,married,southern,bachelor,com,2017.0,fulltime,2016,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,health sciences
+296,female,married,southern,bachelor,com,2015.0,fulltime,2014,living_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,health sciences
+297,female,married,central,bachelor,com,2016.0,fulltime,2015,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,health sciences
+298,male,married,southern,doctorate,com,2000.0,fulltime,1999,tuition_living_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,over,health sciences
+299,female,widowed,southern,doctorate,com,2000.0,fulltime,1999,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,health sciences
+300,female,single,central,bachelor,com,2013.0,fulltime,2013,living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,health sciences
+301,female,divorced,southern,master,mzuni,2017.0,fulltime,2016,tuition_living,partially_paid,inperson,monthly_salary,neutral,neutral,ineffective,negative,dissatisfied,over,health sciences
+302,female,married,southern,bachelor,com,2010.0,fulltime,2009,tuition_living,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,health sciences
+303,male,divorced,southern,doctorate,com,2000.0,fulltime,1999,tuition_stationery,fully_paid,phone,monthly_salary,very_convenient,very_effective,very_effective,very_positive,very satisfied,under,health sciences
+304,male,married,central,doctorate,com,2000.0,fulltime,1999,tuition_living,fully_paid,inperson,monthly_salary,convenient,very_effective,effective,positive,satisfied,under,health sciences
+305,male,married,southern,bachelor,mzuni,2013.0,fulltime,2012,tuition,not_paid,employer,none,inconvenient,ineffective,neutral,neutral,neutral,under,health sciences
+306,male,married,central,master,com,2009.0,fulltime,2008,living,fully_paid,inperson,oneoff,convenient,effective,very_effective,positive,satisfied,under,health sciences
+307,male,married,central,master,mzuni,2014.0,parttime,2013,tuition_living,not_paid,inperson,none,neutral,neutral,neutral,neutral,neutral,over,health sciences
+308,female,married,southern,bachelor,mzuni,2011.0,fulltime,2010,tuition_living,partially_paid,inperson,voluntary_monthly,inconvenient,ineffective,effective,positive,neutral,over,health sciences
+309,male,single,southern,bachelor,com,2016.0,fulltime,2015,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+310,male,single,northern,bachelor,mzuni,2016.0,fulltime,2015,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+311,male,single,northern,bachelor,mzuni,2011.0,self_employed,2010,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+312,male,single,central,bachelor,mzuni,2011.0,fulltime,2010,tuition_living,not_paid,employer,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+313,male,single,southern,bachelor,com,2011.0,fulltime,2010,tuition_living,partially_paid,email,monthly_salary,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+314,male,single,northern,bachelor,com,2011.0,self_employed,2010,tuition_living,not_paid,email,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+315,male,single,central,bachelor,mzuni,2011.0,fulltime,2010,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+316,female,married,southern,master,com,2015.0,fulltime,2014,tuition_living,partially_paid,inperson,voluntary_monthly,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+317,male,married,southern,bachelor,chanco,2015.0,parttime,2014,tuition_living,not_paid,inperson,none,inconvenient,ineffective,ineffective,neutral,neutral,under,performing_arts
+318,male,married,central,bachelor,must,2017.0,fulltime,2016,living,fully_paid,inperson,oneoff,convenient,effective,effective,positive,satisfied,under,health sciences
+319,female,married,southern,bachelor,com,2017.0,parttime,2016,tuition,not_paid,inperson,none,neutral,neutral,neutral,neutral,neutral,under,health sciences
+320,male,single,southern,bachelor,must,2013.0,unemployed,2012,tuition_living,not_paid,email,none,neutral,neutral,neutral,neutral,neutral,over,health sciences
+321,male,single,central,bachelor,must,2013.0,fulltime,2012,tuition,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+322,male,married,southern,doctorate,mzuni,2007.0,fulltime,2006,tuition_living,partially_paid,employer,monthly_salary,neutral,effective,neutral,neutral,neutral,over,health sciences
+323,male,married,central,bachelor,mzuni,2010.0,fulltime,2009,tuition_living,partially_paid,employer,voluntary_monthly,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+324,male,single,central,bachelor,com,2013.0,fulltime,2012,tuition_living,partially_paid,inperson,monthly_salary,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+325,female,married,southern,bachelor,must,2013.0,self_employed,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+326,male,single,central,bachelor,must,2013.0,fulltime,2012,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+327,male,married,central,bachelor,com,2013.0,fulltime,2012,tuition_living,partially_paid,inperson,monthly_salary,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+328,male,single,northern,bachelor,com,2016.0,fulltime,2015,tuition_living,partially_paid,inperson,monthly_salary,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+329,male,single,southern,bachelor,mzuni,2016.0,unemployed,2015,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+330,male,single,northern,bachelor,mzuni,2013.0,parttime,2012,tuition_living,partially_paid,inperson,voluntary_monthly,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+331,male,single,central,bachelor,com,2015.0,parttime,2014,tuition_living,not_paid,email,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+332,female,married,northern,bachelor,must,2011.0,fulltime,2010,tuition,not_paid,phone,monthly_salary,neutral,effective,effective,positive,satisfied,under,health sciences
+333,male,married,central,master,mzuni,2011.0,fulltime,2010,tuition_living,partially_paid,email_inperson,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+334,male,single,northern,bachelor,must,2011.0,fulltime,2010,tuition_living,partially_paid,inperson,monthly_salary,neutral,neutral,neutral,positive,neutral,under,health sciences
+335,male,single,central,master,must,2014.0,fulltime,2013,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+336,female,single,central,bachelor,mzuni,2014.0,fulltime,2013,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+337,male,single,northern,bachelor,must,2017.0,self_employed,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+338,male,married,central,bachelor,com,2011.0,fulltime,2010,tuition,fully_paid,email,monthly_salary,neutral,effective,effective,positive,satisfied,under,health sciences
+339,male,single,southern,bachelor,mzuni,2011.0,parttime,2010,living,partially_paid,email,monthly_salary,convenient,effective,effective,positive,satisfied,under,health sciences
+340,female,married,northern,bachelor,com,2011.0,fulltime,2010,living_stationery,partially_paid,email,monthly_salary,neutral,effective,neutral,positive,neutral,under,health sciences
+341,female,single,northern,bachelor,must,2011.0,fulltime,2018,tuition_living,not_paid,email_inperson,none,neutral,neutral,neutral,neutral,neutral,over,health sciences
+342,female,married,central,bachelor,mzuni,2016.0,fulltime,2015,tuition_living,not_paid,inperson,none,inconvenient,very ineffective,neutral,neutral,neutral,over,health sciences
+343,female,married,central,bachelor,mzuni,2017.0,parttime,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+344,male,single,central,bachelor,must,2011.0,fulltime,2010,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+345,male,married,central,bachelor,must,2017.0,fulltime,2016,tuition_living,not_paid,inperson,none,inconvenient,ineffective,neutral,neutral,neutral,over,health sciences
+346,male,married,central,master,chanco,2015.0,fulltime,2014,tuition_stationery,fully_paid,socialmedia,oneoff,convenient,ineffective,effective,positive,satisfied,under,stem
+347,female,married,southern,master,chanco,2015.0,fulltime,2014,stationery,fully_paid,employer,monthly_salary,very_convenient,effective,effective,positive,satisfied,under,stem
+348,female,single,central,master,poly,2013.0,fulltime,2012,tuition,not_paid,phone,none,neutral,effective,effective,neutral,satisfied,under,stem
+349,male,married,southern,master,chanco,2015.0,fulltime,2014,tuition_stationery,fully_paid,email,monthly_salary,convenient,effective,effective,positive,satisfied,over,stem
+350,male,single,central,bachelor,chanco,2015.0,fulltime,2015,tuition_living_stationery,not_paid,phone,none,inconvenient,ineffective,neutral,negative,neutral,over,stem
+351,female,single,central,bachelor,chanco,2014.0,fulltime,2014,tuition_living,fully_paid,socialmedia,voluntary_monthly,convenient,effective,effective,neutral,satisfied,under,stem
+352,female,single,central,bachelor,mzuni,2016.0,fulltime,2015,tuition_living_stationery,not_paid,phone,none,very_convenient,very_effective,very_effective,very_positive,very satisfied,over,stem
+353,male,married,central,master,chanco,2002.0,self_employed,2001,tuition_stationery,fully_paid,email,oneoff,convenient,effective,neutral,positive,satisfied,under,stem
+354,male,married,northern,bachelor,luanar,2011.0,fulltime,2010,tuition,not_paid,employer,none,inconvenient,ineffective,neutral,very_positive,dissatisfied,over,stem
