@@ -1,0 +1,34 @@
+Column Name,Data Type,Description
+BAge,int64,Borrower's age in years.
+BMaritalStatus,Object,"Borrower's marital status (e.g., Married, Single, Divorced)."
+BEduLevel,Object,"Borrower's education level (e.g., Undergraduate, Postgraduate)."
+Householdsize,float64,Number of members in the borrower's household.
+Dependents,float64,Number of dependents the borrower supports financially.
+BStateR,int64,Borrower's region/state code.
+BCreditScore,int64,Borrower's credit score at loan application.
+CBCreditScore,int64,"Borrower's co-borrower's credit score, if applicable."
+BTimeToComp,int64,Time (in years) the borrower took to complete their education.
+BMajor,Object,"Borrower's academic major (e.g., Bachelor of Science in Midwifery)."
+BCollege,Object,Name of the institution the borrower attended.
+CollegeYrOfEntry,int64,Year the borrower entered college.
+BGradYear,int64,Year the borrower graduated.
+OntimeGraduation,Object,"Indicates whether the borrower graduated on time (e.g., Yes, No)."
+BGPA,float64,Borrower's grade point average at graduation.
+BEmpStatus,Object,"Borrower's employment status (e.g., Employed, Unemployed, Self-employed)."
+RegionUnemploymentRate,float64,Unemployment rate in the borrower's region at the time of loan application.
+Infrationrate,float64,Inflation rate during the borrower's loan application period.
+GradRate,float64,Graduation rate of the borrower's institution.
+CurrentLintRate,float64,Current loan interest rate applicable to the borrower.
+OgLIntRate,float64,Original loan interest rate at the time of disbursement.
+LTerm,int64,Loan term in years.
+Loangraceperiod,int64,Grace period (in years) before loan repayment begins.
+LPaymentDate,Object,Date of the borrower's last loan payment.
+Repaymentplan,Object,"Borrower's repayment plan type (e.g., Salary, Voluntary)."
+RTime,int64,Time (in months) borrower has been repaying the loan.
+ColEfforts,Object,"Collection efforts made by the lender (e.g., Notices, Legalities)."
+LAmount,int64,Loan amount originally disbursed.
+FPaymentDate,Object,Date of the borrower's first loan payment.
+RAmnt,int64,Total repayment amount made by the borrower to date.
+DeliqDate,Object,"Date of loan delinquency occurrence, if applicable."
+DeliqStatus,int64,"Status of loan delinquency (1 = Delinquent, 0 = Not Delinquent)."
+lossDefault,int64,Loss given default as a percentage.
